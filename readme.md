@@ -2,6 +2,8 @@
 
 ## Demo
 https://haunted-house-beige-rho.vercel.app/
+![Uploading image.png…]()
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
