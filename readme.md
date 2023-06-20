@@ -2,8 +2,7 @@
 
 ## Demo
 https://haunted-house-beige-rho.vercel.app/
-![Uploading image.png…]()
-
+![image](https://github.com/arpesh28/3d-haunted-house/assets/44309224/5f40a397-5f07-4aba-be80-8a5cc413cded)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
